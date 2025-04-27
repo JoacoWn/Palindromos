@@ -1,5 +1,5 @@
 package org.example;
-
+System.out.println("Maten a lo furros");
 public class PalindromeChecker {
 
     /**
